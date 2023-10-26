@@ -1,0 +1,2 @@
+F:\School\CoolGameName\x64\Debug\CoolGameName.exe
+F:\School\ParticleSpawner\x64\Debug\ParticleSpawner.exe

@@ -1,0 +1,25 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (CoolGameName.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+F:\School\ParticleSpawner\Spawner.h(10,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\School\ParticleSpawner\Spawner.h(36,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+F:\School\ParticleSpawner\Spawner.h(46,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\School\ParticleSpawner\Source.cpp(54,63): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\School\ParticleSpawner\Source.cpp(54,46): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+F:\School\ParticleSpawner\Source.cpp(76,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CoolGameName.vcxproj -> F:\School\ParticleSpawner\x64\Debug\ParticleSpawner.exe
